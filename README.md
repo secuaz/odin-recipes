@@ -1,2 +1,2 @@
 # odin-recipes
-Pagina de receta "Locro"
+Pagina de recetas para practicar HTML.
