@@ -1,0 +1,28 @@
+* {
+    font-family: Tahoma, sans-serif;
+}
+
+h1 {
+    background-color: rgba(255, 255, 0, 0.534);
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+
+.lista {
+    color: blue;
+}
+
+.img {
+    width: 400px;
+    height: auto;
+}
+
+.desc {
+    font-weight: bold;
+    text-decoration: underline;
+    color: blueviolet;
+}
+
+h4 {
+    color: green;
+}
